@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brandon Tam"
+title: "Welcome to my Academic Website!"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! My name is Brandon Tam and I am a first year PhD student in the Department of Statistical Sciences at the University of Toronto. I am interested in actuarial science and risk management. Prior to starting my PhD, I completed an HBSc at the University of Toronto, specializing in actuarial science and minoring in mathematics. In my free time, I enjoy playing badminton, playing piano and watching Cantonese dramas.
+Hello! My name is Brandon Tam and I am a first year PhD student in the Department of Statistical Sciences at the University of Toronto. I am interested in actuarial science and risk management. Prior to starting my PhD, I completed an HBSc at the University of Toronto, specializing in actuarial science and minoring in mathematics. In my free time, I enjoy playing badminton, playing piano and watching Cantonese dramas.
 
 This website is a little empty right now, but I will be adding to it as I progress through my PhD. 
