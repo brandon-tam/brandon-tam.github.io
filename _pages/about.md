@@ -12,4 +12,8 @@ Hello! My name is Brandon Tam and I am a second year PhD student in the [Departm
 
 In my free time, I enjoy playing badminton, playing piano and watching Cantonese dramas.
 
-This website is a little empty right now, but I will be adding to it as I progress through my PhD. 
+### Updates
+
+April 8, 2025: New Preprint on [arXiv](https://arxiv.org/abs/2504.06381)
+
+Tam, B., & Pesenti, S. M. (2025). Dimension Reduction of Distributionally Robust Optimization Problems. arXiv preprint arXiv:2504.06381.
