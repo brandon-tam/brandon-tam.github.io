@@ -1,11 +1,8 @@
 # main links links
 main:
 
-# - title: "Publications"
-# url: /publications/
-
-     - title: "Research"
-     url: /research/
+  - title: "Publications"
+  url: https://scholar.google.ca/citations?user=lag1zpMAAAAJ&hl=en&oi=sra
 
 # - title: "Talks"
 # url: /talks/    
