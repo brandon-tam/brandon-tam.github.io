@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Brandon Tam and I am a second year PhD student in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca/people/directories/graduate-students/brandon-tam) at the University of Toronto. I am also a member of the [University of Toronto Actuarial Science Research Group](https://actsci.utstat.utoronto.ca/). My current research is related to multivariate uncertainty sets and distributionally robust optimization. Prior to starting my PhD, I completed an HBSc at the University of Toronto, specializing in actuarial science and minoring in mathematics. 
+Hello! My name is Brandon Tam and I am a second year PhD student in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca/people/directories/graduate-students/brandon-tam) at the University of Toronto. I am also a member of the [University of Toronto Actuarial Science Research Group](https://actsci.utstat.utoronto.ca/). My research interests are in actuarial science and risk management. In particular, I am interested in distributionally robust optimization, model uncertainty defined via optimal transport distances, dynamic risk measures, and risk sharing problems. Starting in September 2025, my research will be partially funded by the Ontario Graduate Scholarship. Prior to starting my PhD, I completed an HBSc at the University of Toronto, specializing in actuarial science and minoring in mathematics. 
 
 In my free time, I enjoy playing badminton, playing piano and watching Cantonese dramas.
 
