@@ -14,8 +14,7 @@ In my free time, I enjoy playing badminton, playing piano and watching Cantonese
 
 # Updates
 
-<ins>November 3, 2025</ins>: Revised version of first preprint on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210128). Details on the numerical implementation can be found [here](https://drive.google.com/file/d/1saL92RvyLuZjRfJUnmadg_F5r7kwc_tM/view?usp=sharing).
+<ins>January 28, 2026</ins>: Third version of first preprint on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210128). Details on the numerical implementation can be found [here](https://drive.google.com/file/d/1saL92RvyLuZjRfJUnmadg_F5r7kwc_tM/view?usp=sharing).
 
 <ins>April 8, 2025</ins>: New Preprint on arXiv.
 
-Tam, B., & Pesenti, S. M. (2025). Dimension Reduction of Distributionally Robust Optimization Problems. arXiv preprint arXiv:2504.06381.
