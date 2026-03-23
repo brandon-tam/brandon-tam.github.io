@@ -16,7 +16,11 @@ In my free time, I enjoy playing badminton, playing piano and watching Cantonese
 
 <ins>March 19, 2026</ins>: Second preprint on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6446938).
 
+Tam, B., Ghossoub, M., Pesenti, S. M. (2026). Dynamic Pareto-Optima in Multi-Period Pure-Exchange Economies. arXiv preprint arXiv:2603.19414.
+
 <ins>January 28, 2026</ins>: Revised version of first preprint on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210128). Details on the numerical implementation can be found [here](https://drive.google.com/file/d/1saL92RvyLuZjRfJUnmadg_F5r7kwc_tM/view?usp=sharing).
+
+Tam, B., Pesenti, S. M. (2026). Bounds for Distributionally Robust Optimization Problems. arXiv preprint arXiv:2504.06381.
 
 <ins>April 8, 2025</ins>: First preprint on [arXiv](https://arxiv.org/abs/2504.06381).
 
